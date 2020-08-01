@@ -22,7 +22,7 @@ If you have a package or know of a package that you would like to have included 
 
 ## Predictive Modeling
 - [sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark.
-- [double_life](https://github.com/casact/double_lift) - Double Lift Charts in Python.
+- [double_lift](https://github.com/casact/double_lift) - Double Lift Charts in Python.
 
 ## Catastrophe Modeling
 - [OasisLMF](https://github.com/OasisLMF/OasisLMF) [Oasis](https://github.com/OasisLMF) - an open source catastrophe modeling framework.
