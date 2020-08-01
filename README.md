@@ -35,10 +35,11 @@ If you have a package or know of a package that you would like to have included 
 - [lifelib](https://github.com/fumitoh/lifelib) - Actuarial models in Python.
 - [pyliferisk](https://github.com/franciscogarate/pyliferisk) - A python library for life actuarial calculations.
 - [lifecontingencies](https://github.com/spedygiorgio/lifecontingencies) - Financial and Actuarial Mathematics for Life Contingencies.
-- [demography](https://github.com/robjhyndman/demography) - demography package for R 
+- [demography](https://github.com/robjhyndman/demography) - demography package for R.
+- [LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl) - Life Actuarial Maths in Julia.
 
 ## Data Sets
 
 - [covid_19_data](https://github.com/casact/covid_19_data) - Data collection and exploratory analysis related to COVID-19 for general insurance actuaries and the public.
-- [NOAA](https://www.ncdc.noaa.gov/) - National Oceanic and Atmospheric Administration climate
-- [NHTSA](https://www.nhtsa.gov/research-data/databases-and-software) - National Highway Traffic Safety Administration
+- [NOAA](https://www.ncdc.noaa.gov/) - National Oceanic and Atmospheric Administration.
+- [NHTSA](https://www.nhtsa.gov/research-data/databases-and-software) - National Highway Traffic Safety Administration.
