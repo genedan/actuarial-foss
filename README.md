@@ -45,6 +45,9 @@ If you have a package or know of a package that you would like to have included 
 - [elizur](https://github.com/trollefson/elizur) - Elizur is a finance library for actuaries, finance professionals, and students.
 - [JINH](https://github.com/SUNJIANZHI/JINH) - Pure Functional Actuarial Language
 
+## Documentation
+- [actuarialsymbol](https://ctan.org/pkg/actuarialsymbol?lang=en) - A LaTeX package for rendering actuarial notation.
+
 ## Data Sets
 
 - [covid_19_data](https://github.com/casact/covid_19_data) - Data collection and exploratory analysis related to COVID-19 for general insurance actuaries and the public.
