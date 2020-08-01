@@ -11,7 +11,7 @@ A curated list of free and open source actuarial software
 
 ## Catastrophe Modeling
 [OasisLMF](https://github.com/OasisLMF/OasisLMF) [Oasis](https://github.com/OasisLMF) - an open source catastrophe modeling framework
-[OasisPlatform](https://github.com/OasisLMF/OasisPlatform) 
+[OasisPlatform](https://github.com/OasisLMF/OasisPlatform) - Oasis loss modelling platform in Python.
 [ktools](https://github.com/OasisLMF/ktools) - In-memory simulation kernel for loss modelling.
 [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) - Toy UK windstorm model
 
