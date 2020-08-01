@@ -7,6 +7,9 @@ If you have a package or know of a package that you would like to have included 
 
 ## Loss Modeling and Statistics
 - [actuar](https://github.com/vigou3/actuar) - Actuarial functions and heavy tailed distributions for R.
+- [statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
+- [tweedie (Python)](https://github.com/thequackdaddy/tweedie) - Tweedie family density estimation in python 
+- [tweedie (R)](https://cran.r-project.org/web/packages/tweedie/index.html)
 
 ## Financial Mathematics
 - [TmVal](https://github.com/genedan/TmVal) - Time value of money, annuity, and bond valuations with Python.
