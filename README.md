@@ -25,7 +25,7 @@ If you have a package or know of a package that you would like to have included 
 - [double_lift](https://github.com/casact/double_lift) - Double Lift Charts in Python.
 
 ## Catastrophe Modeling
-- [OasisLMF](https://github.com/OasisLMF/OasisLMF) [Oasis](https://github.com/OasisLMF) - an open source catastrophe modeling framework.
+- [OasisLMF](https://github.com/OasisLMF/OasisLMF) Oasis - an open source catastrophe modeling framework.
 - [OasisPlatform](https://github.com/OasisLMF/OasisPlatform) - Oasis loss modelling platform in Python.
 - [ktools](https://github.com/OasisLMF/ktools) - In-memory simulation kernel for loss modelling.
 - [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) - Toy UK windstorm model.
@@ -55,3 +55,9 @@ If you have a package or know of a package that you would like to have included 
 - [NHTSA](https://www.nhtsa.gov/research-data/databases-and-software) - National Highway Traffic Safety Administration.
 - [raw_package](https://github.com/casact/raw_package) - Data package for R actuarial workshops
 - [cellar](https://github.com/kasaai/cellar) - Data with terroir.
+
+## Communities
+
+- [Casualty Actuarial Society](github.com/casact) - The CAS GitHub page.
+- [Kasa AI](https://github.com/kasaai/) - A ML focused group.
+- [Oasis](https://github.com/OasisLMF) - A sponsored organization developing the open source catastrophe model, Oasis.
