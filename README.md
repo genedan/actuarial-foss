@@ -7,7 +7,7 @@ A curated list of free and open source actuarial software
 
 ## Reserving
 - [chainladder-python](https://github.com/casact/chainladder-python) - Actuarial reserving in Python
-- [ChainLadder](https://github.com/mages/chainladder)
+- [ChainLadder](https://github.com/mages/chainladder) - Claims reserving models in R
 
 ## Catastrophe Modeling
 - [OasisLMF](https://github.com/OasisLMF/OasisLMF) [Oasis](https://github.com/OasisLMF) - an open source catastrophe modeling framework.
