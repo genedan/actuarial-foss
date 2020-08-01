@@ -1,6 +1,10 @@
 # actuarial-foss
 A curated list of free and open source actuarial software
 
+## Contributing
+
+If you have a package or know of a package that you would like to have included in this list, feel free to make a pull request.
+
 ## Financial Mathematics
 - [TmVal](https://github.com/genedan/TmVal) - Time value of money, annuity, and bond valuations with Python.
 - [MIES](https://github.com/genedan/MIES) - Miniature Insurance Economic Simulator
