@@ -30,8 +30,10 @@ If you have a package or know of a package that you would like to have included 
 - [ktools](https://github.com/OasisLMF/ktools) - In-memory simulation kernel for loss modelling.
 - [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) - Toy UK windstorm model.
 
-## Databases
-- [PCDM](https://github.com/genedan/MIES) - Property Casualty Data Model Specification.
+## Data Management
+- [OMG PCDM](https://www.omg.org/spec/PC/About-PC/) - the Object Management Group Property Casualy Data Model specification
+- [PCDM](https://github.com/genedan/MIES) - Property Casualty Data Model Specification, a SQLAlchemy implementation based off OMG PCDM
+- [RDOS](https://github.com/RMS-open-standards/RDOS) - RMS Risk Data Open Standard Schema.
 
 ## Data Manipulation
 - [modelx](https://github.com/fumitoh/modelx) - Use Python like a spreadsheet!
@@ -62,3 +64,4 @@ If you have a package or know of a package that you would like to have included 
 - [Kasa AI](https://github.com/kasaai/) - A ML focused group.
 - [Oasis](https://github.com/OasisLMF) - A sponsored organization developing the open source catastrophe model, Oasis.
 - [Aposin](https://github.com/aposin) - Association for the promotion of open-source insurance software and for the establishment of open interface standards in the insurance industry
+- [openIMIS](https://github.com/openimis) - An open source insurance management information system (health)
