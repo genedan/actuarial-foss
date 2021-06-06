@@ -14,6 +14,7 @@ If you have a package or know of a package that you would like to have included 
 ## Financial Mathematics
 - [TmVal](https://github.com/genedan/TmVal) - Time value of money, annuity, and bond valuations with Python.
 - [MIES](https://github.com/genedan/MIES) - Miniature Insurance Economic Simulator.
+- [Yields.jl](https://github.com/JuliaActuary/Yields.jl) - A simple interface for constructing, manipulating, and using yield curves for modeling purposes.
 
 ## Reserving
 - [chainladder-python](https://github.com/casact/chainladder-python) - Actuarial reserving in Python.
@@ -47,8 +48,12 @@ If you have a package or know of a package that you would like to have included 
 - [lifecontingencies](https://github.com/spedygiorgio/lifecontingencies) - Financial and Actuarial Mathematics for Life Contingencies.
 - [demography](https://github.com/robjhyndman/demography) - demography package for R.
 - [LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl) - Life Actuarial Maths in Julia.
+- [MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl) - bundled, efficient mortality and other rate tables and related functions.
 - [elizur](https://github.com/trollefson/elizur) - Elizur is a finance library for actuaries, finance professionals, and students.
 - [JINH](https://github.com/SUNJIANZHI/JINH) - Pure Functional Actuarial Language.
+
+## General
+- [https://github.com/JuliaActuary/ActuaryUtilities.jl] - A combination of convienent financial maths, risk measures, and insurance-related convenience functions.
 
 ## Documentation
 - [actuarialsymbol](https://ctan.org/pkg/actuarialsymbol?lang=en) - A LaTeX package for rendering actuarial notation.
@@ -68,3 +73,4 @@ If you have a package or know of a package that you would like to have included 
 - [Oasis](https://github.com/OasisLMF) - A sponsored organization developing the open source catastrophe model, Oasis.
 - [Aposin](https://github.com/aposin) - Association for the promotion of open-source insurance software and for the establishment of open interface standards in the insurance industry.
 - [openIMIS](https://github.com/openimis) - An open source insurance management information system (health).
+- [JuliaActuary](https://juliaactuary.org/) - A combination of flexible actuarial packages designed to work well together.
