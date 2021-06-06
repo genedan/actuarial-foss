@@ -53,7 +53,7 @@ If you have a package or know of a package that you would like to have included 
 - [JINH](https://github.com/SUNJIANZHI/JINH) - Pure Functional Actuarial Language.
 
 ## General
-- [https://github.com/JuliaActuary/ActuaryUtilities.jl] - A combination of convienent financial maths, risk measures, and insurance-related convenience functions.
+- [ActuaryUtilities.jl](https://github.com/JuliaActuary/ActuaryUtilities.jl) - A combination of convienent financial maths, risk measures, and insurance-related convenience functions.
 
 ## Documentation
 - [actuarialsymbol](https://ctan.org/pkg/actuarialsymbol?lang=en) - A LaTeX package for rendering actuarial notation.
