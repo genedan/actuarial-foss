@@ -54,6 +54,7 @@ If you have a package or know of a package that you would like to have included 
 
 ## General
 - [ActuaryUtilities.jl](https://github.com/JuliaActuary/ActuaryUtilities.jl) - A combination of convienent financial maths, risk measures, and insurance-related convenience functions.
+- [Loss Data Analytics](https://ewfrees.github.io/Loss-Data-Analytics/index.html) - An open text authored by the Actuarial community
 
 ## Documentation
 - [actuarialsymbol](https://ctan.org/pkg/actuarialsymbol?lang=en) - A LaTeX package for rendering actuarial notation.
