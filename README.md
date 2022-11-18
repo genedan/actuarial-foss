@@ -7,6 +7,7 @@ If you have a package or know of a package that you would like to have included 
 
 ## Loss Modeling and Statistics
 - [actuar](https://github.com/vigou3/actuar) - Actuarial functions and heavy tailed distributions for R.
+- [aggregate](https://github.com/mynl/aggregate) - A powerful aggregate distribution modeling library in Python.
 - [statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python.
 - [tweedie (Python)](https://github.com/thequackdaddy/tweedie) - Tweedie family density estimation in python.
 - [tweedie (R)](https://cran.r-project.org/web/packages/tweedie/index.html) - R library for the Tweedie distribution.
