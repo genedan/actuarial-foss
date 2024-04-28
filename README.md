@@ -70,7 +70,7 @@ If you have a package or know of a package that you would like to have included 
 
 ## Communities
 
-- [Casualty Actuarial Society](github.com/casact) - The CAS GitHub page.
+- [Casualty Actuarial Society](https://github.com/casact) - The CAS GitHub page.
 - [Kasa AI](https://github.com/kasaai/) - A ML focused group.
 - [Oasis](https://github.com/OasisLMF) - A sponsored organization developing the open source catastrophe model, Oasis.
 - [Aposin](https://github.com/aposin) - Association for the promotion of open-source insurance software and for the establishment of open interface standards in the insurance industry.
