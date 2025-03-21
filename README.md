@@ -52,6 +52,7 @@ If you have a package or know of a package that you would like to have included 
 - [MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl) - bundled, efficient mortality and other rate tables and related functions.
 - [elizur](https://github.com/trollefson/elizur) - Elizur is a finance library for actuaries, finance professionals, and students.
 - [JINH](https://github.com/SUNJIANZHI/JINH) - Pure Functional Actuarial Language.
+- [ActuarialPlayground.com](https://actuarialplayground.com) - A visual and interactive term insurance cashflow model and modelling environment, with calculations defined using [calculang](https://calculang.dev)
 
 ## General
 - [ActuaryUtilities.jl](https://github.com/JuliaActuary/ActuaryUtilities.jl) - A combination of convienent financial maths, risk measures, and insurance-related convenience functions.
